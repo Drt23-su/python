@@ -12,7 +12,7 @@ try:
     with open(nombre_archivo, 'r') as archivo:
         # Leer el contenido del archivo línea por línea
         for linea in archivo:
-            # Contar cuántas veces aparece la palabra en la línea
+            # Cuenta cuántas veces aparece la palabra en la línea
             contador_ocurrencias += linea.lower().count(palabra_a_buscar.lower())
     
     # Imprime el número de ocurrencias
