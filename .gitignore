@@ -1,0 +1,6 @@
+cosasquenoseven.txt
+#*.txt #todos los archivos de texto
+#/paraCarpetas/*
+#.DS_Store # macOS Thumbs.db # Windows
+#/node_modules/ # Para proyectos Node.js
+#/venv/ # Para proyectos Python
