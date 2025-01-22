@@ -1,5 +1,6 @@
 token.py
 cosasquenoseven.txt
+ignorarArchivosGit.txt
 #*.txt #todos los archivos de texto
 #/paraCarpetas/*
 #.DS_Store # macOS Thumbs.db # Windows
