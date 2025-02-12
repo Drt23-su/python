@@ -1,0 +1,22 @@
+//nombre , castigo, promotor, puntos,descripcion//
+//{las llaves sirven para abrir una entidad}//
+//[los corchetes son para agrupar varias entidades]//
+
+[
+    {"nombre":"Fernando",
+    "escuderia":"Aston",
+    "mundiales":"[2004,2005]",
+    "padres":[{"nombre":"Jose Luis","edad":65},
+              {"nombre":"Jose Luis","edad":65}],
+    "vivo":true
+},
+{
+    {"nombre":"Fernando",
+    "escuderia":"Aston",
+    "mundiales":"[2004,2005]",
+    "padres":[{"nombre":"Jose Luis","edad":65},
+              {"nombre":"Jose Luis","edad":65}],
+    "vivo":true   
+}
+}
+]
